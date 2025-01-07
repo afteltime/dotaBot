@@ -1,0 +1,3 @@
+steam
+dota2
+python-dotenv
